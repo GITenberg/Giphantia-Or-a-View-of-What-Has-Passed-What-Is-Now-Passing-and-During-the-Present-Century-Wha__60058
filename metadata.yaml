@@ -1,5 +1,8 @@
 _repo: Giphantia-Or-a-View-of-What-Has-Passed-What-Is-Now-Passing-and-During-the-Present-Century-Wha__60058
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60058-h/images/cover.jpg
 creator:
   author:
     agent_name: Tiphaigne de La Roche, Charles-François
@@ -16,6 +19,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Tiphaigne_de_La_Roche
     - https://en.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Tiphaigne_de_la_Roche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60058#Giphantia-Or-a-View-of-What-Has-Passed-What-Is-Now-Passing-and-During-the-Present-Century-Wha_
 gutenberg_issued: '2019-08-04'
 gutenberg_type: Text
 identifiers:
