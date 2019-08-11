@@ -1,0 +1,37 @@
+_repo: Giphantia-Or-a-View-of-What-Has-Passed-What-Is-Now-Passing-and-During-the-Present-Century-Wha__60058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tiphaigne de La Roche, Charles-François
+    aliases:
+    - Tiphaigne de La Roche, Charles-Francois
+    - Roche, Charles-François Tiphaigne de La
+    - La Roche, Charles-François Tiphaigne de
+    - De La Roche, Charles-François Tiphaigne
+    birthdate: 1722
+    deathdate: 1774
+    gutenberg_agent_id: '50763'
+    url: http://www.gutenberg.org/2009/agents/50763
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Tiphaigne_de_La_Roche
+    - https://en.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Tiphaigne_de_la_Roche
+description: ''
+gutenberg_issued: '2019-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- !lcsh 'French fiction -- 18th century'
+- !lcsh 'Utopias -- Fiction'
+- GITenberg
+title: 'Giphantia
+
+  Or a View of What Has Passed, What Is Now Passing, and, During the Present Century,
+  What Will Pass, in the World.'
+url: http://www.gutenberg.org/ebooks/60058
